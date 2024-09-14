@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/Fanbytes/static/css/main.39c646b9.css",
+    "main.js": "/Fanbytes/static/js/main.232d228b.js",
+    "static/js/453.b0cae8f1.chunk.js": "/Fanbytes/static/js/453.b0cae8f1.chunk.js",
+    "static/media/ticktok_influencer.png": "/Fanbytes/static/media/ticktok_influencer.5856cb832f31a9cfc51c.png",
+    "static/media/mobile.png": "/Fanbytes/static/media/mobile.f6b279c5cf4f1a4373ac.png",
+    "static/media/boohoo.png": "/Fanbytes/static/media/boohoo.34fe39e6c11e5a92de04.png",
+    "static/media/bbc.png": "/Fanbytes/static/media/bbc.e84e422e213664d67fd2.png",
+    "static/media/NBC_Universal.png": "/Fanbytes/static/media/NBC_Universal.f3831e8f130ba723d6a0.png",
+    "static/media/gojo.png": "/Fanbytes/static/media/gojo.dc7abc0adf50cb5fa68e.png",
+    "static/media/good_soldier.png": "/Fanbytes/static/media/good_soldier.343f0d925dddc1e6c54c.png",
+    "static/media/ar.png": "/Fanbytes/static/media/ar.e966a7af0ba51a8dc2d5.png",
+    "static/media/instagram_community.png": "/Fanbytes/static/media/instagram_community.549d82bec4b4b603b5e0.png",
+    "static/media/itachi.png": "/Fanbytes/static/media/itachi.df517fb21adf44e25696.png",
+    "static/media/video_thumbnail.png": "/Fanbytes/static/media/video_thumbnail.4beef140a71fd6e96804.png",
+    "static/media/kisuke.png": "/Fanbytes/static/media/kisuke.568670b1b4911df7b147.png",
+    "static/media/fanbyteslogo.png": "/Fanbytes/static/media/fanbyteslogo.494071c333bba1cf32c3.png",
+    "static/media/madara.png": "/Fanbytes/static/media/madara.63ae110fc2ef859906a2.png",
+    "static/media/instagram_influencer.png": "/Fanbytes/static/media/instagram_influencer.9a99ab77d484a6373ba3.png",
+    "static/media/forbes.png": "/Fanbytes/static/media/forbes.f3cb06040ba6bdd59e39.png",
+    "static/media/music2.png": "/Fanbytes/static/media/music2.20402fc61025209ff57e.png",
+    "static/media/music.png": "/Fanbytes/static/media/music.b8d2ab1ebe9b947e613b.png",
+    "static/media/snapchat.png": "/Fanbytes/static/media/snapchat.2403bf0bfe90ed115a64.png",
+    "static/media/snapchat_community.png": "/Fanbytes/static/media/snapchat_community.d6f315f9bda86c393885.png",
+    "static/media/kakashi.png": "/Fanbytes/static/media/kakashi.04f96149970c423496ad.png",
+    "static/media/deliveroo.png": "/Fanbytes/static/media/deliveroo.265848597c660c07aa59.png",
+    "static/media/huffpost.png": "/Fanbytes/static/media/huffpost.a63eee295f4adb8fcf18.png",
+    "static/media/apple_music.png": "/Fanbytes/static/media/apple_music.861aa32f9c4bf5d35ab7.png",
+    "static/media/sony_music.png": "/Fanbytes/static/media/sony_music.f39d521d2c34535f9ad0.png",
+    "static/media/warner_music_group.png": "/Fanbytes/static/media/warner_music_group.9151ae51986b06bc623d.png",
+    "static/media/universal.png": "/Fanbytes/static/media/universal.a19760996890f8489d17.png",
+    "index.html": "/Fanbytes/index.html",
+    "main.39c646b9.css.map": "/Fanbytes/static/css/main.39c646b9.css.map",
+    "main.232d228b.js.map": "/Fanbytes/static/js/main.232d228b.js.map",
+    "453.b0cae8f1.chunk.js.map": "/Fanbytes/static/js/453.b0cae8f1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39c646b9.css",
+    "static/js/main.232d228b.js"
+  ]
+}
